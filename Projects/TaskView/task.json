@@ -1,0 +1,19 @@
+[
+    {"task": "Wait for stable paper release", "status": "Good Enough"},
+    {"task": "Check plugin update statuses", "status": "Not Started"},
+    {"task": "Download all plugins and server jar", "status": "Not Started"},
+    {"task": "Confirm test server launches and all plugins load", "status": "Not Started"},
+    {"task": "Move test server to new host", "status": "Not Started"},
+    {"task": "Worldborder set to 15K radius", "status": "Not Started"},
+    {"task": "Run world pregen plugin", "status": "Not Started"},
+    {"task": "Create a spawn", "status": "Not Started"},
+    {"task": "Add rules, ranks, and other information to spawn", "status": "Not Started"},
+    {"task": "Create spawn protection", "status": "Not Started"},
+    {"task": "Set up creative world", "status": "Not Started"},
+    {"task": "Setup creative spawn protection", "status": "Not Started"},
+    {"task": "Enable datapacks (scoreboards)", "status": "Not Started"},
+    {"task": "Create zip of old version for archive", "status": "Not Started"},
+    {"task": "Remove old playerdata from plugins", "status": "Not Started"},
+    {"task": "Edit gamerules", "status": "Not Started"},
+    {"task": "Remove whitelist and make announcement of update", "status": "Not Started"}
+  ]
