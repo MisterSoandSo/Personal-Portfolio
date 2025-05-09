@@ -1,0 +1,6 @@
+Tesseract has different Page Segmentation Modes (PSM) that control how it detects text layout. Since your text is vertical Chinese, you should experiment with these settings:
+
+PSM 5: Treat the image as a single vertical column of text.
+PSM 6: Assume a uniform block of text.
+PSM 7: Single text line.
+PSM 11: Sparse text with vertical writing.
