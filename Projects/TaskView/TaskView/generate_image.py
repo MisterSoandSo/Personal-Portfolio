@@ -3,9 +3,9 @@ from .utils import read_json_tasks, ChecklistStyle
 
 # Color-coding dictionary (customizable)
 status_colors = {
-    "Good Enough": (34, 139, 34),  # Green
+    "Done": (34, 139, 34),  # Green
     "Not Started": (255, 0, 0),  # Red
-    "Working": (255, 165, 0),  # Orange
+    "In-Progress": (255, 165, 0),  # Orange
     # Add more custom statuses here
 }
 
